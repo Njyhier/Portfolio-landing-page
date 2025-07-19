@@ -1,0 +1,29 @@
+@media screen and (min-width: 480px) and  (max-width: 767px){
+  body {
+  background-color: black;
+  color: white;
+  float: right;
+  justify-content: center;
+   }
+img {
+  height: 300px;
+  width: 250px;
+  float: left;
+  }
+h1 {
+  text-align: center;
+  color: white;
+  }
+}
+@media screen and (min-width: 768px) {
+  body {
+    background-color: white;
+    color: black;
+    float: right;
+    justify-content: center;
+  }
+img {
+  height: 450px;
+  width: 400px;
+}
+}
